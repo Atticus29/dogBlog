@@ -1,0 +1,33 @@
+html{
+  background-color: darkgray;
+  text-align: center;
+}
+
+ul{
+  font-size: 150%;
+  padding-left: 27%;
+  text-align: left;
+}
+
+ol{
+  font-size: 150%;
+  padding-left: 27%;
+  text-align: left;
+}
+
+ .breedSpecific{
+   font-family: monospace;
+ }
+
+h2{
+  font-size: 145%;
+}
+
+h1{
+  font-size: 400%;
+}
+
+h2.habitHeader{
+  font-style: normal;
+  text-transform: uppercase;
+}
